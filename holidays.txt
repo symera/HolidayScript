@@ -1,0 +1,18 @@
+# holidays relative to Easter:
+EASTER -48 // Carnival Monday
+EASTER -2 // Good Friday
+EASTER 1 // Easter Monday
+EASTER 40 // Ascension
+EASTER 50 // Whit Monday
+EASTER 60 // Corpus Christi
+# fixed holidays:
+01-01 // New Year
+05-01 // May Day
+10-03 // German Unification Day
+11-01 // All Saints' Day
+12-25 // First Christmas Day
+12-26 // Second Christmas Day
+
+# test values:
+#EASTER -53 // easter holiday test
+#01-29 // fixed holiday test
