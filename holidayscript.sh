@@ -8,7 +8,7 @@ holiday=0
 locale=$(locale | grep -oP "(?<=^LANG=).*$")
 LANG="C.UTF-8"
 
-# is it weekend?
+# weekend?
 daynumber=$(date +%u)
 if test $daynumber -ge 6
 then
